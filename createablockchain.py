@@ -71,6 +71,3 @@ class Blockchain:
 
 
 
-
-
-#Part 2 Mining Our Blockchain 
